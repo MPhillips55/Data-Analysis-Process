@@ -6,5 +6,4 @@ the data analysis workflow.
 The project was completed using a Jupyter Notebook, and utilizes Python, pandas,
 matplotlib, and seaborn. 
 
-The Notebook **Process** and **Analysis** sections detailing the respective 
-areas of the process. 
+The Notebook **Process** and **Analysis** sections detail the steps I took. 
