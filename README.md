@@ -1,4 +1,4 @@
-# Data Analysis Process - Baseball Stats
+## Data Analysis Process - MLB Dataset
 
 Process and analysis of the MLB dataset, focusing on going step by step through
 the data analysis workflow. 
