@@ -1,5 +1,7 @@
 ## Data Analysis Process - MLB Dataset
 
+To view the html notebook click [here.](https://mphillips55.github.io/Data_Analysis_Process/Data_Analysis_Project_-_Baseball_Statistics_MPhillips.html)
+
 Process and analysis of the MLB dataset, focusing on going step by step through
 the data analysis workflow. 
 
